@@ -1,2 +1,2 @@
 # conference-talks
-Videos and slides from my conference talks
+Videos, slides and materials from my conference talks
